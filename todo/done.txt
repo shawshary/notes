@@ -1,1 +1,2 @@
 x 2022-11-17 browser todotxt-cli add on +todotxt
+x 2023-01-29 install leap vim plugin +config

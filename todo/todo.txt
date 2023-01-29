@@ -1,4 +1,3 @@
-install leap vim plugin +config
 have a look at chatGPT +misc
 A Students Introduction to English Grammar (1/320) +book @home
 Clean Code - A Handbook of Agile Software Craftsmanship (1/462) +book @home
